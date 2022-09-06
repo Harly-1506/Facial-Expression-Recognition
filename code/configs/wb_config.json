@@ -1,0 +1,7 @@
+{
+    "loss": "categorical_crossentropy",
+    "epochs": 100,
+    "learning_rate": 3e-4,
+    "metric": "accuracy",
+    "batch_size": 32
+}

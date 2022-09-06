@@ -1,0 +1,19 @@
+{
+	"data_path": "data",
+	"image_size": 224,
+	"n_channels": 3,
+	"n_classes": 7,
+	"model": "VGG16",
+	"lr":  3e-4,
+	"weighted_loss": 0,
+	"momentum": 0.9,
+	"weight_decay": 0.001,
+	"distributed": 0,
+	"batch_size": 32, 
+	"num_workers": 8,
+	"max_plateau_count": 8,
+	"plateau_patience": 2,
+	"steplr": 50,
+	"log_dir": "log",
+    "file_checkpoint": "ferplus_vgg16_v1.hdf5"
+}
