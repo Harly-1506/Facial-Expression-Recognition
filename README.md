@@ -17,5 +17,9 @@ git clone https://github.com/Harly-1506/Facial-Expression-Recognition.git
  
  ```
 
+___
+**If you like  this repo, just star to support me** :star:
 
+**Enjoy with Code** :wink:
 
+**Harly**
