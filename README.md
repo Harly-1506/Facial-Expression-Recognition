@@ -16,7 +16,7 @@ git clone https://github.com/Harly-1506/Facial-Expression-Recognition.git
  You can use your jupyter lab or Colab to train these files in trainer folder
  
  ```
- ##DEMO
+ ## DEMO
  - You can check demo in this repo: [Real-Time-Emotion-Face-Recognition](https://github.com/Harly-1506/Real-Time-Emotion-Face-Recognition)
 
 ___
